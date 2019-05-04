@@ -4,33 +4,7 @@
 ## 最新小姐姐苹果安卓下载地址2019年5月4日更新
 ### [989a3.cn](http://989a3.cn) 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 大标题  
 ====  
 
@@ -73,8 +47,6 @@ Thank `You` . Please `Call` Me `Coder`
 >>>>>满二叉树  
 
 
-![](http://www.baidu.com/img/bdlogo.gif)  
+![xjj](http://www.baidu.com/img/bdlogo.gif "百度logo")  
 
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
-
-![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
+![xjj](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
