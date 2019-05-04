@@ -1,16 +1,3 @@
-  #一级标题  
-    ##二级标题  
-      ###三级标题  
-        ####四级标题  
-#####五级标题  
-######六级标题  
-
-  欢迎到访  
-  很高兴见到您  
-  祝您，早上好，中午好，下午好，晚安
-
-
-
 # 小姐姐直播平台回家页
 博客里面有小姐姐直播最新的苹果安卓下载地址
  只要收藏博客地址https://github.com/laolingdao/xiaojiejie 
@@ -38,13 +25,6 @@
   直接回车不能换行，<br>  
   要使用\<br>  
 
-  Hello,大家好，我是果冻虾仁。
-
-1
-      欢迎到访  
-      很高兴见到您  
-      祝您，早上好，中午好，下午好，晚安
-
 Thank `You` . Please `Call` Me `Coder`
 
 [我的博客](http://blog.csdn.net/guodongxiaren) 
@@ -70,11 +50,6 @@ Thank `You` . Please `Call` Me `Coder`
 
 ![](http://www.baidu.com/img/bdlogo.gif)  
 
-![baidu](http://www.baidu.com/img/bdlogo.gif)  
-
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
 
 ![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
-
-[![baidu]](http://baidu.com)  
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
