@@ -4,9 +4,9 @@
 请立刻收藏保存本页！！<br>
 本网页网址https://github.com/laolingdao/xiaojiejie<br>
 
-# 最新苹果安卓下载地址2019年6月6日更新
-### [989a3.cn](http://989a3.cn)
-### [lwz132.cn](http://lwz132.cn)
+# 最新苹果安卓下载地址2019年6月23日更新
+### [thvndl.cn ](http://thvndl.cn )
+### [maqkyo.cn ](http://maqkyo.cn )
 ### [memoqw.cn](http://memoqw.cn)
 
 # 游戏公测说明
