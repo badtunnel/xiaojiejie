@@ -8,7 +8,7 @@
 # 最新苹果安卓下载地址2019年6月23日更新
 ### [thvndl.cn ](http://thvndl.cn )
 ### [maqkyo.cn ](http://maqkyo.cn )
-### [memoqw.cn](http://memoqw.cn)
+### [xztdzp.cn](http://memoqw.cn)
 
 # 游戏公测说明
 ### 1、必须开播设置游戏，才可以获得主播游戏分成。
