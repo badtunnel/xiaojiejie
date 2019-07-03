@@ -9,6 +9,25 @@
 ### [thvndl.cn ](http://thvndl.cn )
 ### [maqkyo.cn ](http://maqkyo.cn )
 ### [xztdzp.cn](http://memoqw.cn)
+备用下载地址如下
+qv0b.xyz
+hcq1.xyz
+0ns3.xyz
+my53.xyz
+ht73.xyz
+270a.xyz
+3sjw.xyz
+5hzt.xyz
+akef.xyz
+7flj.xyz
+a5of.xyz
+apnx.xyz
+pjgm.xyz
+iy0o.xyz
+0flm.xyz
+heqo.xyz
+e0e9.xyz
+6wpq.xyz
 
 # 游戏公测说明
 ### 1、必须开播设置游戏，才可以获得主播游戏分成。
