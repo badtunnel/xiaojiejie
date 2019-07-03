@@ -8,26 +8,26 @@
 # 最新苹果安卓下载地址2019年6月23日更新
 ### [thvndl.cn ](http://thvndl.cn )
 ### [maqkyo.cn ](http://maqkyo.cn )
-### [xztdzp.cn](http://memoqw.cn)
-备用下载地址如下
-qv0b.xyz
-hcq1.xyz
-0ns3.xyz
-my53.xyz
-ht73.xyz
-270a.xyz
-3sjw.xyz
-5hzt.xyz
-akef.xyz
-7flj.xyz
-a5of.xyz
-apnx.xyz
-pjgm.xyz
-iy0o.xyz
-0flm.xyz
-heqo.xyz
-e0e9.xyz
-6wpq.xyz
+### [xztdzp.cn](http://memoqw.cn)<br>
+备用下载地址如下<br>
+qv0b.xyz<br>
+hcq1.xyz<br>
+0ns3.xyz<br>
+my53.xyz<br>
+ht73.xyz<br>
+270a.xyz<br>
+3sjw.xyz<br>
+5hzt.xyz<br>
+akef.xyz<br>
+7flj.xyz<br>
+a5of.xyz<br>
+apnx.xyz<br>
+pjgm.xyz<br>
+iy0o.xyz<br>
+0flm.xyz<br>
+heqo.xyz<br>
+e0e9.xyz<br>
+6wpq.xyz<br>
 
 # 游戏公测说明
 ### 1、必须开播设置游戏，才可以获得主播游戏分成。
