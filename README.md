@@ -6,9 +6,9 @@
 最下面有教程怎么样用简化版本的TG就是biyong 用于联系
 
 # 最新苹果安卓下载地址2019年6月23日更新
-### [thvndl.cn ](http://thvndl.cn )
-### [maqkyo.cn ](http://maqkyo.cn )
-### [xztdzp.cn](http://memoqw.cn)<br>
+### [dmjs.xyz ](http://thvndl.cn )
+### [7ngv.xyz ](http://maqkyo.cn )
+### [koxn.xyz](http://memoqw.cn)<br>
 备用下载地址如下<br>
 qv0b.xyz<br>
 hcq1.xyz<br>
